@@ -15,15 +15,6 @@ html {
 }
 
 
-.botoes button {
-  padding: 8px 12px;
-  background-color: aqua;
-  color: crimson;
-  font-weight: bold;
-  border-radius: 14px;
-  border-color: yellow;
-}
-
 .botoes {
   display: flex;
   gap: 0 40px;
